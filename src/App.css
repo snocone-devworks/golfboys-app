@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Erica+One&display=swap');
+
+.app-title {
+  font-family: 'Erica One';
+  font-size: 4rem;
+}
+
+.app-subtitle {
+  font-family: 'Erica One';
+  font-size: 3rem
+}
